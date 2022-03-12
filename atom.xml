@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangxiaobuzi.github.io/</id>
-    <title>Gridea</title>
-    <updated>2022-03-12T04:19:44.350Z</updated>
+    <title>王小布的网址导航</title>
+    <updated>2022-03-12T04:21:06.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangxiaobuzi.github.io/"/>
     <link rel="self" href="https://wangxiaobuzi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>有志青年，崭新十年，第三年。</subtitle>
     <logo>https://wangxiaobuzi.github.io/images/avatar.png</logo>
     <icon>https://wangxiaobuzi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 王小布的网址导航</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wangxiaobuzi.github.io/post/hello-gridea/</id>
